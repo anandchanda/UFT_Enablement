@@ -4,6 +4,7 @@ Browser("Advantage Shopping").Page("Advantage Shopping").WebEdit("quantity").Set
 Browser("Advantage Shopping").Page("Advantage Shopping").WebButton("save_to_cart").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").WebButton("save to cart")_;_script infofile_;_ZIP::ssf5.xml_;_
 Browser("Advantage Shopping").Page("Advantage Shopping").Link("ShoppingCart").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").Link("ShoppingCart")_;_script infofile_;_ZIP::ssf6.xml_;_
 Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("WebElement_2").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("WebElement 2")_;_script infofile_;_ZIP::ssf7.xml_;_
+Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("Your shopping cart is empty").Check CheckPoint("Your shopping cart is empty") @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("Your shopping cart is empty")_;_script infofile_;_ZIP::ssf8.xml_;_
 Browser("Advantage Shopping").Page("Advantage Shopping").Link("HOME").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").Link("HOME")_;_script infofile_;_ZIP::ssf8.xml_;_
 Browser("Advantage Shopping").Page("Advantage Shopping").Sync @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping")_;_script infofile_;_ZIP::ssf9.xml_;_
 Browser("Advantage Shopping").CloseAllTabs @@ hightlight id_;_67000_;_script infofile_;_ZIP::ssf10.xml_;_
